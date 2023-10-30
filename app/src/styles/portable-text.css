@@ -15,7 +15,7 @@ li[class~='portable-text'] {
 }
 
 a[class~='portable-text'] {
-  @apply underline;
+  @apply bg-[#85607a] px-1;
 }
 
 h1[class~='portable-text'] {
@@ -35,5 +35,5 @@ h4[class~='portable-text'] {
 }
 
 img[class~='portable-text'] {
-  @apply my-4;
+  @apply my-10;
 }
